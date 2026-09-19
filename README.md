@@ -1,3 +1,20 @@
+## Date: 29-08-2026
+
+**Today's Work:**
+- Covered Default Constructor and Parameterized Constructor concepts[cite: 8].
+- Practiced Constructor Overloading and constructor chaining using `this()`[cite: 8].
+- Applied `this` keyword usage with instance variables and constructors[cite: 8].
+- Explored `final` keyword application across variables, methods, and classes[cite: 8].
+- Studied `static` usage and `instanceof` operator for runtime type checking[cite: 8].
+
+**Next Session Plan:**
+- Implement problem solutions inside `src/main/java/oop_fundamentals/class_problems` and `src/main/java/oop_fundamentals/assignment_problems` on `feature/session_4`.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 22-08-2026
 
 **Today's Work:**
