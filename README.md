@@ -1,3 +1,18 @@
+## Date: 22-08-2026
+
+**Today's Work:**
+- Covered OOP fundamentals, including its definition and key benefits (Reusability, Security, Extensibility)[cite: 9].
+- Explored real-world analogies for Class & Object, along with class definition syntax and object instantiation[cite: 9].
+- Analyzed the differences between instance members and class (static) members[cite: 9].
+
+**Next Session Plan:**
+- Implement problem solutions inside `src/main/java/oop_basics/class_problems` and `src/main/java/oop_basics/assignment_problems` on `feature/session_3`.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 15-08-2026
 
 **Today's Work:**
