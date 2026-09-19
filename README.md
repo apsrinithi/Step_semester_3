@@ -1,3 +1,21 @@
+## Date: 05-09-2026
+
+**Today's Work:**
+- Covered Types of Inheritance including Single, Multilevel, and Hierarchical inheritance[cite: 9].
+- Applied `extends` keyword for class relationship declaration and `super` keyword for parent class construction responsibility[cite: 9].
+- Analyzed Constructor Chaining execution order across class hierarchies[cite: 9].
+- Implemented Method Overriding using `@Override` annotation[cite: 9].
+- Explored Polymorphism concepts, distinguishing Compile-Time Polymorphism (Method Overloading) from Runtime Polymorphism[cite: 9].
+- Practiced Dynamic Method Dispatch along with Upcasting and Downcasting between reference types[cite: 9].
+
+**Next Session Plan:**
+- Implement problem solutions inside `src/main/java/inheritance_polymorphism/class_problems` and `src/main/java/inheritance_polymorphism/assignment_problems` on `feature/session_5`.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 29-08-2026
 
 **Today's Work:**
